@@ -10,3 +10,5 @@
 <h1>💻 Algunas tecnologias y lenguajes que he trabajado:</h1>
 [![Java](https://img.shields.io/badge/Java-%230077B5.svg?logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ing-miguel-guerra)
+
