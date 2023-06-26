@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**briansrt/briansrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Ingeniero de sistemas</h2>
+<h1 align="center">Hola, soy Brian Stevens Riofrio Trochez</h1>
+<h1>Sobre mí:</h1>
+<p>📚 Actualmente estoy estudiando Ingenieria de sistemas en Unicatolica</p>
+<p>💪🏼 Disfruto afrontar nuevos retos y lo he hecho desde el inicio de la carrera con proyectos los cuales que sin duda me llevaron a sacar lo mejor de mí.</p>
+<p>💬 Conectémonos y exploremos cómo puedo ayudar a dar vida a su próximo proyecto.</p>
+<h1>🌐 Redes:</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ing-miguel-guerra)
+<h1>💻 Algunas tecnologias y lenguajes que he trabajado:</h1>
+[![Java](https://img.shields.io/badge/Java-%230077B5.svg?logo=Java&logoColor=white)]
