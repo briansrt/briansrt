@@ -1,4 +1,4 @@
-<h3 align="center">Ingeniero de sistemas</h3>
+<h3 align="center">Estudiante de Ingenieria de sistemas</h3>
 <h1 align="center">Hola, soy Brian Stevens Riofrio Trochez</h1>
 <h1>Sobre mí:</h1>
 
@@ -10,6 +10,9 @@
 <h1>💻 Algunas tecnologías y lenguajes que he trabajado:</h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70"  height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
 </div>
 
 
